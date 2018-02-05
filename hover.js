@@ -44,6 +44,7 @@ quoteCloud.style.cursor = 'pointer';
 const para = document.createElement('p');
 document.body.appendChild(para);
 para.innerHTML = `Click me!`;
+// randomize the index retrieval of the quotes array so that each time the user clicks on the text rendered to the page, a random quote appears.
 para.addEventListener('click', () => {
     const randomIndex = Math.floor(Math.random() * quotes.length);
     para.textContent = quotes[randomIndex];
