@@ -1,5 +1,6 @@
 const quotes = [
     `Dancing is silent poetry. - Simonides`,
+    '"It does not matter how slowly you go, so long as you do not stop." — Confucius',
     `Wait a minute, wait a minute. You ain\'t heard nothin\' yet! - The Jazz Singer`,
     'One morning I shot an elephant in my pajamas. How he got in my pajamas, I don\'t know. - Animal Crackers',
     'Do, or do not. There is no "try". - Star Wars: Empire Strikes Back',
